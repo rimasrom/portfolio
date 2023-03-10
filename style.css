@@ -45,5 +45,44 @@
     text-align: center;
     padding: 0rem 6rem;
     margin: auto;
+} 
+
+.section{
+ margin: 2rem;   
 }
 
+.container-technology{
+    background-color: var(--primary-color);
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+    border-radius: 1.2rem;
+    text-align: center;
+}
+
+.container-technology h1,p{
+    padding: 1.5rem;
+}
+
+.container-project{
+    text-align: center;
+    padding: 2rem;
+    margin: auto;
+    border-radius: 1.2rem;
+    max-width: 900px;
+}
+
+.container-project h1,p{
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+.container-project a{
+    padding-bottom: 1.5rem;
+    color: white;
+    background-color: var(--primary-color);
+    border-radius: 2rem;
+    padding: 0.6rem 1.2rem;
+    margin-top: 2rem;
+    text-decoration: none;
+}
