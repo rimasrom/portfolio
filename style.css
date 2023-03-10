@@ -30,3 +30,20 @@
     text-align: right;
     list-style: none;
 }
+
+.header{
+    display: flex;
+}
+
+.header .header-img{
+    max-width: 600px;
+    margin: auto;
+    padding: 2rem 4rem;
+}
+
+.header .intro{
+    text-align: center;
+    padding: 0rem 6rem;
+    margin: auto;
+}
+
