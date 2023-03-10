@@ -45,5 +45,33 @@
     text-align: center;
     padding: 0rem 6rem;
     margin: auto;
+} 
+
+.project-section{
+ margin: 2rem;   
 }
 
+.container-project{
+    text-align: center;
+    padding: 2rem;
+    margin: auto;
+    border-radius: 1.2rem;
+    max-width: 900px;
+    background-color: brown;
+    
+}
+
+.container-project h1,p{
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+.container-project a{
+    padding-bottom: 1.5rem;
+    /* color: white; */
+    background-color: white;
+    border-radius: 2rem;
+    padding: 0.6rem 1.2rem;
+    margin-top: 2rem;
+    text-decoration: none;
+}
