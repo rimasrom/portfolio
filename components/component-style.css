@@ -32,3 +32,11 @@
     text-align: right;
     list-style: none;
 }
+
+.section-header{
+    padding-top: 15rem;
+    padding-bottom: 5rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
