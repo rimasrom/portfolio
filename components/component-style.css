@@ -44,3 +44,98 @@
     color: blueviolet;
 }
 
+.ow{
+   list-style: none; 
+   background-color: var(--primary-color);
+   max-width: 900px;    
+   margin: auto;
+   border-radius: 2rem;
+}
+
+.ow div{
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.common-section{
+    padding: 2rem 0rem;
+    
+}
+
+.common-section h1,p{
+    padding: 1rem 0rem;
+}
+
+.ow .primary-link{
+    padding-bottom: 1.5rem;
+    color: var(--primary-color);
+    background-color: white;
+    border-radius: 2rem;
+    padding: 0.6rem 1.2rem;
+    text-decoration: none;
+}
+
+.ow .secondary-link{
+    padding-bottom: 1.5rem;
+    color: var(--primary-color);
+    background-color: white;
+    border-radius: 2rem;
+    padding: 0.6rem 1.2rem;
+    text-decoration: none;
+}
+
+.w{
+    list-style: none; 
+    max-width: 900px;    
+    margin: auto;
+    border-radius: 2rem; 
+}
+
+.w div{
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.w .primary-link{
+    padding-bottom: 1.5rem;
+    color: white;
+    background-color: var(--primary-color);
+    border-radius: 2rem;
+    padding: 0.6rem 1.2rem;
+    text-decoration: none;
+}
+
+.w .secondary-link{
+    padding-bottom: 1.5rem;
+    color: white;
+    background-color: var(--primary-color);
+    border-radius: 2rem;
+    padding: 0.6rem 1.2rem;
+    text-decoration: none;
+}
+
+.foot{
+    max-height: 30rem;
+    background-color: brown;
+    padding-top: 2rem;
+    padding-left: 5rem;
+    padding-bottom: 5rem;
+    border-radius: 6rem 6rem 0rem 0rem;
+}
+
+.foot li{
+    padding-top: 2rem;
+    text-align: center;
+    list-style: none;
+}
+
+.foot a{
+    text-decoration: none;
+    color: white;
+    padding-left: 3rem;
+    font-size: 1.3rem;
+}
+
+.foot h2{
+    font-size: 1.5rem;
+}
